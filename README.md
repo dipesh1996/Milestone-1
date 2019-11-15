@@ -11,7 +11,7 @@ processed, stemmed, etc.) should be displayed.
 
 
 Here is a brief list of things implemented: 
-1. Build a positional inverted index over a user-specied directory of text files.
+1. Build a positional inverted index over a user-specifed directory of text files.
 2. Process tokens from files with special rules; and use similar rules for user queries.
 3. Finish the Boolean query processing module so you can handle queries from the user and merge postings lists for the query.
 4. Support phrase queries with quotation marks via the positional index.
